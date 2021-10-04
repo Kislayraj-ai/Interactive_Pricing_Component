@@ -3,6 +3,10 @@
 This is an interactive pricing component build with HTML ,CSS and JS and it's
 responsive to the screen width.
 
+## Visit website(Live Url)
+
+[Interative Pricing Component](https://kislayraj-interactive-pricing.netlify.app/)
+
 ## Screen Layout
 
 The designs were created to the following widths:
